@@ -64,25 +64,25 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArjunKukadiya&show_icons=true&theme=radical" alt="Arjun's GitHub stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunKukadiya&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arjunkukadiya13&show_icons=true&theme=radical" alt="Arjun's GitHub stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkukadiya13&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
 </p>
 
 ---
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunKukadiya&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunkukadiya13&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/arjun-kukadiya" target="blank">
+  <a href="www.linkedin.com/in/arjun-kukadiya-a07b93222" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" style="margin:15px;"/>
   </a>
-  <a href="https://github.com/ArjunKukadiya" target="blank">
+  <a href="https://github.com/arjunkukadiya13" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" width="40" style="margin:15px;"/>
   </a>
 </p>
