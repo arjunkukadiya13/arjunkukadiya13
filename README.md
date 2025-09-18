@@ -72,16 +72,21 @@
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunkukadiya13&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=arjunkukadiya13&theme=radical"
+       alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="www.linkedin.com/in/arjun-kukadiya-a07b93222" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" style="margin:15px;"/>
-  </a>
+  <a href="https://www.linkedin.com/in/arjun-kukadiya-a07b93222"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img align="center"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+       alt="LinkedIn" height="40" width="40" style="margin:15px;"/>
+</a>
   <a href="https://github.com/arjunkukadiya13" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" width="40" style="margin:15px;"/>
   </a>
